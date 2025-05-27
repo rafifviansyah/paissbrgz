@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("paissbgrzmph")
+st.title("paissbrigezmph")
 st.write("Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/")
 st.image("IMG-20250201-WA0030.jpg", width=200)
 
